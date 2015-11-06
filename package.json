@@ -1,0 +1,21 @@
+{
+  "name": "coffeelint-no-shadow-requires",
+  "version": "1.0.0",
+  "description": "Make sure you don't shadow a require()d variable",
+  "main": "src/index.js",
+  "author": "Ben Chociej <ben@chociej.io>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "coffeelintrule",
+    "coffeelint",
+    "shadow",
+    "redefine",
+    "overwrite",
+    "override",
+    "require"
+  ],
+  "repository": "bchociej/coffeelint-no-shadow-requires",
+  "peerDependencies": {
+    "coffeelint": "^1"
+  }
+}
